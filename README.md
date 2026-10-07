@@ -43,7 +43,7 @@ cd 2024-python-patches-coursework
 ### Running the Program
 
 ```bash
-python python patches.py
+python "python patches.py"
 ```
 
 You'll be asked in the terminal for:
