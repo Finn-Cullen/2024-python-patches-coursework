@@ -7,7 +7,7 @@ Y_dimention = 500 # screen Y size
 spacing = ((X_dimention / size)/5) # size of a patch shape (each patch is made of smaller shapes)
 # storing variables : stores data that will be used everywhere
 win = Window("window", X_dimention,Y_dimention)
-col_check = ["red","green","blue","magentsa","orange","purple"]
+col_check = ["red","green","blue","magenta","orange","purple"]
 patch_index = 0
 A = 3 # A is just a placeholder so that it can be overwritten by the patches later on
 patches = [A]*(size*size)
